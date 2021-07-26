@@ -1,1 +1,3 @@
 *.exe
+*.ibc
+/build
